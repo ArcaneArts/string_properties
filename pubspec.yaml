@@ -1,0 +1,14 @@
+name: string_properties
+description: Pack properties into a string
+version: 1.0.0
+homepage: https://github.com/ArcaneArts/string_properties
+environment:
+  sdk: '>=3.0.3 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+flutter:
